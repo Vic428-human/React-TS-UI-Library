@@ -1,24 +1,25 @@
 {
-  "name": "lib-ui",
-  "private": true,
-  "version": "0.0.0",
+  "name": "rororor",
+  "private": false,
+  "version": "0.0.4",
   "type": "module",
   "files": [
     "dist"
   ],
-  "main": "./dist/lib-ui.umd.cjs",
-  "module": "./dist/lib-ui.js",
+  "main": "./dist/rororor.umd.cjs",
+  "module": "./dist/rororor.js",
   "exports": {
     ".": {
-      "import": "./dist/lib-ui.js",
-      "require": "./dist/lib-ui.umd.cjs"
+      "import": "./dist/rororor.js",
+      "require": "./dist/rororor.umd.cjs"
     }
   },
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "publish": "npm run build && npm publish"
   },
   "dependencies": {
     "react": "^19.1.0",

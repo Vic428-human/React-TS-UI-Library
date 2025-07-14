@@ -1,10 +1,10 @@
 // 這個是直接在本地引用
-import { Button } from "house-ui";
+import { Button } from "rororor";
 
 function App() {
   return (
     <>
-      <Button>!sdsad</Button>
+      <Button>ssssssssss</Button>
     </>
   );
 }

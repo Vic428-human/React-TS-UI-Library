@@ -7,7 +7,7 @@
     "module": "ESNext",
     "skipLibCheck": true,
     "paths": {
-      "house-ui": ["./lib/main.ts"]
+      "rororor": ["./lib/main.ts"]
     },
     /* Bundler mode */
     "moduleResolution": "bundler",

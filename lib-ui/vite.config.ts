@@ -13,8 +13,8 @@ export default defineConfig({
     // library entry and output settings
     lib: {
       entry: resolve(__dirname, "lib/main.ts"),
-      name: "lib-ui",
-      fileName: "lib-ui",
+      name: "rororor",
+      fileName: "rororor",
     },
     // bundler options
     // externalize react-related imports
