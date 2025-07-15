@@ -6,9 +6,9 @@
 
 [實現用戶註冊與登入驗證流程，並透過 JWT 與 OTP 郵件驗證保障安全性](https://github.com/Vic428-human/antd5-dashboard-practice/tree/main/backend/routes)
 
+- [] 加入 tailwindcss@3
 - [x] 推到 npm 上
 - [x] 可以下載 npm 套件
-- [x]
 
 ### 運行客戶端頁面
 
